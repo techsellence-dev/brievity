@@ -1,0 +1,15 @@
+{
+  "coder": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-brevity-coder-143257-authRole",
+      "UnauthRoleArn": "arn:aws:iam::437749481831:role/amplify-brevity-coder-143257-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::437749481831:role/amplify-brevity-coder-143257-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-brevity-coder-143257-deployment",
+      "UnauthRoleName": "amplify-brevity-coder-143257-unauthRole",
+      "StackName": "amplify-brevity-coder-143257",
+      "StackId": "arn:aws:cloudformation:us-east-1:437749481831:stack/amplify-brevity-coder-143257/6e3e7360-81ab-11ec-bfd5-0a93bab7da43",
+      "AmplifyAppId": "dmc0uzc4ni1ts"
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
-  "projectName": "Brievity",
-  "version": "2.0",
-  "frontend": "android",
   "providers": [
     "awscloudformation"
   ],
+  "projectName": "brevity",
+  "version": "3.1",
+  "frontend": "android",
   "android": {
     "config": {
-      "ResDir": "app/src/main/res"
+      "ResDir": "app/res"
     }
   }
 }
